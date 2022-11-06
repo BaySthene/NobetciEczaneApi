@@ -12,10 +12,21 @@ class ApiController extends Controller
     {
 
         $data = $curl->index($city);
-        return response()->json([
-            "Data" => $data,
-        ],200)
-        ->header('Content-Type', 'text/plain');
+        $isThere = in_array($city,CurlController::$Cities);
+
+        if($isThere)
+        {
+            return response()->json([
+                "Data" => $data,
+            ],200)
+            ->header('Content-Type', 'text/plain');
+        }else {
+            
+            return response()->json([
+                "Error" => "Böyle bir şehir bulunamadı",
+            ],200)
+            ->header('Content-Type', 'text/plain');
+        }
 
     }
 }

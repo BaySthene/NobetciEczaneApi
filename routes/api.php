@@ -5,4 +5,4 @@ use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\ApiController;
 
-Route::get('/getpharmacy/{city}', [ApiController::class, 'getPharmacy'])->name('getPharmacy');
+Route::get('/getpharmacy/{city}', [ApiController::class, 'getPharmacy'])->where('city','[a-z]+')->name('getPharmacy');
