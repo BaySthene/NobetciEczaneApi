@@ -9,8 +9,8 @@ Aşağıdaki Gibi bir **URL** yapısına **GET Request** göndererek geri dönü
 ### Örnek URL
 >"https://nobetcieczane.codecrew.com.tr/getPharmacy/{Şehirismi}"
 
-URL'de ki **{Şehirismi}** değişkeni kısmına çekmek istediğiniz ile göre aşağıdaki **İl Listesi ** menüsünden seçip yazarak o ilin verilerini çekebilirsiniz.
-##İl Listesi
+URL'de ki ** {Şehirismi} ** değişkeni kısmına çekmek istediğiniz ile göre aşağıdaki ** İl Listesi ** menüsünden seçip yazarak o ilin verilerini çekebilirsiniz.
+## İl Listesi
 >adiyaman
 >afyonkarahisar
 >agri
