@@ -7,7 +7,7 @@
 Aşağıdaki Gibi bir **URL** yapısına **GET Request** göndererek geri dönüş değeri olarak nöbetçi eczaneleri çekebilirsiniz
 
 ### Örnek URL
->"https://nobetcieczane.codecrew.com.tr/getPharmacy/{Şehirismi}"
+>"https://nobetcieczaneler.codecrew.com.tr/api/getpharmacy/{Şehirismi}"
 
 URL'de ki ** {Şehirismi} ** değişkeni kısmına çekmek istediğiniz ile göre aşağıdaki ** İl Listesi ** menüsünden seçip yazarak o ilin verilerini çekebilirsiniz.
 ## İl Listesi
