@@ -93,4 +93,4 @@ URL'de ki ** {Şehirismi} ** değişkeni kısmına çekmek istediğiniz ile gör
 >zonguldak
 
 ## İletişim
-Nöbetci eczane bilgilerini ``https://www.trnobetcieczane.com`` adresli web siteden çekilmektedir. Eğer bu bir sorun teşkil ediyor ise, lütfen ``muhammet.keskin@codecrew.com.tr`` mail adresinden tarafıma ulaşınız.
+Nöbetci eczane bilgilerini ``https://www.trnobetcieczane.com`` adresli web siteden çekilmektedir. Eğer bu bir sorun teşkil ediyor ise, lütfen ``muhammetk@limonteknoloji.com.tr`` mail adresinden tarafıma ulaşınız.
